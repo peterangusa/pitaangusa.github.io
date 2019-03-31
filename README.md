@@ -2,7 +2,7 @@
 
 ## Project Name
 
-_Portfolio Redesign-
+_Portfolio Redesign_
 
 ## Description
 _Redesigning of my portfolio page using boostrap_<br>
