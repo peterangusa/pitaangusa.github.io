@@ -3,9 +3,7 @@
 ## Portfolio Redesign
 
 ## Description
-_Redesigning of my portfolio page using boostrap_
-
-##project setup instructions:
+_Redesigning of my portfolio page using boostrap_<br>
 
 A) _The following HTML tags are all used; p, h, ul, ol, li, em, strong, a, img, div, span_<br>
 B) _Bootstrap classes are used to style the page._<br>
