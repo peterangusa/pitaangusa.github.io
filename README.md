@@ -18,7 +18,7 @@ E) _Commits are made regularly with clear messages that finish the phrase "It 
 * Bootstrap
 
 ## Setup Instructions
-_Click on the link below to open my portifolio and navigate through the links
+_Click on the link below to open my portifolio and navigate through the links_
 
 ## View on GitHub Pages
 
