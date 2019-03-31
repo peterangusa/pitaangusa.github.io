@@ -1,6 +1,8 @@
 # Peter Angusa
 
-## Portfolio Redesign
+## Project Name
+
+_Portfolio Redesign-
 
 ## Description
 _Redesigning of my portfolio page using boostrap_<br>
@@ -16,9 +18,9 @@ E) _Commits are made regularly with clear messages that finish the phrase "It 
 * Bootstrap
 
 ## Setup Instructions
+_Click on the link below to open my portifolio and navigate through the links
 
 ## View on GitHub Pages
-A) _Click on the link below to open my portifolio and navigate through the links
 
 [Click to visit Site](https://pitaangusa.github.io/bootstrap-redisign/)
 
