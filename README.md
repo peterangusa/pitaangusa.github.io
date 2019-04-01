@@ -22,7 +22,7 @@ _Click on the link below to open my portifolio and navigate through the links_
 
 ## View on GitHub Pages
 
-[Click to visit Site](https://pitaangusa.github.io/bootstrap-redisign/)
+[Click to visit Site](https://pitaangusa.github.io/)
 
 ## License
 
