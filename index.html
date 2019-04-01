@@ -1,14 +1,45 @@
 <!DOCTYPE html>
 <html>
     <head>
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136336558-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag()
+        {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-136336558-1');
+    </script>
+
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+    <!--<link href='https://fonts.googleapis.com/css?family=Tangerine' rel='stylesheet'>-->
+    <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet" type="text/css">
+
         <!-- head definitions go here -->
         <title>PERSONAL PROFILE</title>
     </head>
     <body>
         <!-- the content goes here -->
-        <div class="container">
-   <h1>PETER ANGUSA</h1>
-   <a><img src="peter.jpg" alt="profile-picture" width="200" height="200" /></a>
+<nav class="navbar fixed-top justify-content-end" id="navbar">
+    <a class="links" href="#welcome-section">About</a>
+    <a class="links" href="#work">Work</a>
+    <a class="links" href="#contact" id="contact-link">Contact</a>
+</nav>
+
+<div id="welcome-section">
+    <h1>Hi I am Peter Angusa</h1>
+    <a><img src="peter.jpg" alt="profile-picture" width="200" height="200" /></a>
+    <p>I am a web developer and this is my portfolio!</p>
+</div>
+
    <h3>Contact Information</h3>
    <tr>
    <br><td>Phone number:</td>
